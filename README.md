@@ -42,7 +42,7 @@ In general, two alternatives ways are provided, similarly to Homework 1:
 * can be run and tested through the docker as described in the README.md of Homework 2,
 * or as a set of Jupyter Notebooks which are stored in [stud](https://github.com/olga-sorokoletova/NLP/tree/main/Homework%202/hw2/stud) folder ([```data```](https://github.com/olga-sorokoletova/NLP/tree/main/Homework%202/data)),
 
-BUT to run using the first way, first models' weights in a ```.pt``` format must to be uploaded into MODEL folder (they haven't been uploaded to the repository due to the high memory consumption).
+BUT to run using the first way, first the folder named **model** with weights of the models in a ```.pt``` format must be added to the repository (haven't been uploaded due to the high memory consumption).
 
 ## Author
 - Olga Sorokoletova - 1937430
