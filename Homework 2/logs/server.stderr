@@ -1,0 +1,7 @@
+2021-07-13T15:17:39.215134000Z Traceback (most recent call last):
+2021-07-13T15:17:39.215191900Z   File "hw2/app.py", line 3, in <module>
+2021-07-13T15:17:39.215203100Z     from stud.implementation import build_model_b, build_model_ab, build_model_cd
+2021-07-13T15:17:39.215214400Z   File "/home/app/hw2/stud/implementation.py", line 117
+2021-07-13T15:17:39.215222000Z     ''' In the corresponding notebooks separate prediction functions and commentaries for each mode can be found. '''
+2021-07-13T15:17:39.215230000Z                                                                                                                     ^
+2021-07-13T15:17:39.215237700Z IndentationError: expected an indented block
