@@ -1,0 +1,10 @@
+2021-05-02T21:14:17.024893800Z [nltk_data] Downloading package stopwords to /root/nltk_data...
+2021-05-02T21:14:17.024948100Z [nltk_data]   Unzipping corpora/stopwords.zip.
+2021-05-02T21:14:17.024957400Z [nltk_data] Downloading package punkt to /root/nltk_data...
+2021-05-02T21:14:17.024963900Z [nltk_data]   Unzipping tokenizers/punkt.zip.
+2021-05-02T21:14:17.024970000Z 0it [00:00, ?it/s]
+2021-05-02T21:14:17.024975500Z  * Serving Flask app "app" (lazy loading)
+2021-05-02T21:14:17.024981100Z  * Environment: production
+2021-05-02T21:14:17.024986600Z    WARNING: This is a development server. Do not use it in a production deployment.
+2021-05-02T21:14:17.024992100Z    Use a production WSGI server instead.
+2021-05-02T21:14:17.025278500Z  * Debug mode: off
