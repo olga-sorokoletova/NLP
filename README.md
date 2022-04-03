@@ -1,6 +1,6 @@
 # Natural Language Processing
 
-This is the repository of the project proposed for the course of *Natural Language Processing*. 
+This is the repository of the assignments proposed for the course of *Natural Language Processing*. 
 
 It contains two large homeworks written in Python:
 1. **Homework 1:** Word-in-Context Disambiguation;
